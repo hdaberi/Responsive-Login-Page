@@ -1,0 +1,15 @@
+body {
+  background-color: #f8f9fa;
+}
+.login-wrapper {
+  min-height: 100vh;
+}
+.login-image {
+  background: url("../images/bg-image.png") no-repeat center center;
+  background-size: cover;
+  border-top-right-radius: 1rem;
+  border-bottom-right-radius: 1rem;
+}
+.form-control::placeholder {
+  color: #adb5bd;
+}
