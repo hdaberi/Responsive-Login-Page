@@ -21,10 +21,10 @@
 ### 🖼️ تصاویر پیش‌نمایش
 
 #### 💻 نسخه دسکتاپ  
-![Login Page - Desktop View](Desktop.png)
+![Login Page - Desktop View](README/Desktop.png)
 
 #### 📱 نسخه موبایل  
-![Login Page - Mobile View](Mobile.png)
+![Login Page - Mobile View](README/Mobile.png)
 
 ### 🧰 پیشنهادات توسعه
 
@@ -65,10 +65,10 @@ This project features a modern, RTL (right-to-left) Persian login form built wit
 ### 🖼️ Preview Images
 
 #### 💻 Desktop View  
-![Login Page - Desktop View](Desktop-Eng.png)
+![Login Page - Desktop View](README/Desktop-Eng.png)
 
 #### 📱 Mobile View  
-![Login Page - Mobile View](Mobile-Eng.png)
+![Login Page - Mobile View](README/Mobile-Eng.png)
 
 ### 🧰 Development Suggestions
 
